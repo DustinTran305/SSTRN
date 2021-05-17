@@ -12,7 +12,7 @@ module.exports = {
           assets: './src/assets/',
           services: './src/services/',
           configs: './src/configs',
-          i18n : './src/languages/',
+          i18n: './src/languages/',
           '@redux': './src/redux/',
         },
       },
